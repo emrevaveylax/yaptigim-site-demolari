@@ -9,4 +9,4 @@ https://645cd709a0460c009a5ec67e--gorgeous-croquembouche-abde1f.netlify.app/
 
 
 
-file:///C:/Users/user/AppData/Local/Temp/Rar$EXa2388.25599/anasayfa.html
+
