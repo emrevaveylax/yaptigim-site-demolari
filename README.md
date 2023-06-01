@@ -12,5 +12,7 @@
 ### Youtube
 - https://youtube-by-emre.netlify.app/
 
+### Tek Sayfa Şirket Sayfası
+- https://onepage-sites.netlify.app/
 
 
