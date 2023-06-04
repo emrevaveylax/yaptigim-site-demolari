@@ -13,4 +13,5 @@
 ### Tek Sayfa Şirket Sayfası
 - https://onepage-sites.netlify.app/
 
-
+### Basit Site
+- https://basitsite.netlify.app/
