@@ -21,3 +21,6 @@
 
 ### Profile Card Website
 - https://profilecardwebsite.netlify.app/
+
+### Social Card
+- https://socialmedia-card.netlify.app/
