@@ -27,3 +27,6 @@
 
 ### Website
 - https://fantastic-semifreddo-97dd0d.netlify.app/
+
+### Blog Site
+- https://64a17a8a0103a85aca4990a5--melodic-narwhal-70bbc1.netlify.app/
